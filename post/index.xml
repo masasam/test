@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PPAP blog</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on PPAP blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©2017 PPAP blog powered by Hugo</copyright>
+    <lastBuildDate>Mon, 10 Apr 2017 12:25:42 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>apple</title>
+      <link>http://example.com/2017/04/10/apple/</link>
+      <pubDate>Mon, 10 Apr 2017 12:25:42 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/apple/</guid>
+      <description>I have an apple.</description>
+    </item>
+    
+    <item>
+      <title>pen</title>
+      <link>http://example.com/2017/04/10/pen/</link>
+      <pubDate>Mon, 10 Apr 2017 12:25:31 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen/</guid>
+      <description>I have a pen.</description>
+    </item>
+    
+    <item>
+      <title>ppap</title>
+      <link>http://example.com/2017/04/10/ppap/</link>
+      <pubDate>Mon, 10 Apr 2017 09:56:09 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/ppap/</guid>
+      <description>PPAP</description>
+    </item>
+    
+    <item>
+      <title>ppa</title>
+      <link>http://example.com/2017/04/10/ppa/</link>
+      <pubDate>Mon, 10 Apr 2017 09:56:01 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/ppa/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pp</title>
+      <link>http://example.com/2017/04/10/pp/</link>
+      <pubDate>Mon, 10 Apr 2017 09:55:40 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pp/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>p</title>
+      <link>http://example.com/2017/04/10/p/</link>
+      <pubDate>Mon, 10 Apr 2017 09:55:23 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/p/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pp</title>
+      <link>http://example.com/2017/04/10/pp/</link>
+      <pubDate>Mon, 10 Apr 2017 09:54:57 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pp/</guid>
+      <description>ii</description>
+    </item>
+    
+    <item>
+      <title>p</title>
+      <link>http://example.com/2017/04/10/p/</link>
+      <pubDate>Mon, 10 Apr 2017 09:54:52 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/p/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pen-pineapple-apple</title>
+      <link>http://example.com/2017/04/10/pen-pineapple-apple/</link>
+      <pubDate>Mon, 10 Apr 2017 09:54:13 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen-pineapple-apple/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pen-pineapple</title>
+      <link>http://example.com/2017/04/10/pen-pineapple/</link>
+      <pubDate>Mon, 10 Apr 2017 09:53:35 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen-pineapple/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pen pineapple apple pen</title>
+      <link>http://example.com/2017/04/10/pen-pineapple-apple-pen/</link>
+      <pubDate>Mon, 10 Apr 2017 09:52:05 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen-pineapple-apple-pen/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pen pineapple apple</title>
+      <link>http://example.com/2017/04/10/pen-pineapple-apple/</link>
+      <pubDate>Mon, 10 Apr 2017 09:51:49 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen-pineapple-apple/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pen pineapple</title>
+      <link>http://example.com/2017/04/10/pen-pineapple/</link>
+      <pubDate>Mon, 10 Apr 2017 09:51:26 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen-pineapple/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pineapple</title>
+      <link>http://example.com/2017/04/10/pineapple/</link>
+      <pubDate>Mon, 10 Apr 2017 09:50:54 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pineapple/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>http://example.com/2017/04/10/apple/</link>
+      <pubDate>Mon, 10 Apr 2017 09:49:23 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/apple/</guid>
+      <description>i</description>
+    </item>
+    
+    <item>
+      <title>pen</title>
+      <link>http://example.com/2017/04/10/pen/</link>
+      <pubDate>Mon, 10 Apr 2017 09:49:12 +0900</pubDate>
+      
+      <guid>http://example.com/2017/04/10/pen/</guid>
+      <description>i</description>
+    </item>
+    
+  </channel>
+</rss>

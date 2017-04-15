@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/2017/04/10/apple/</loc>
+    <lastmod>2017-04-10T12:25:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen/</loc>
+    <lastmod>2017-04-10T12:25:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/ppap/</loc>
+    <lastmod>2017-04-10T09:56:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/ppa/</loc>
+    <lastmod>2017-04-10T09:56:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pp/</loc>
+    <lastmod>2017-04-10T09:55:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/p/</loc>
+    <lastmod>2017-04-10T09:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pp/</loc>
+    <lastmod>2017-04-10T09:54:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/p/</loc>
+    <lastmod>2017-04-10T09:54:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen-pineapple-apple/</loc>
+    <lastmod>2017-04-10T09:54:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen-pineapple/</loc>
+    <lastmod>2017-04-10T09:53:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen-pineapple-apple-pen/</loc>
+    <lastmod>2017-04-10T09:52:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen-pineapple-apple/</loc>
+    <lastmod>2017-04-10T09:51:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen-pineapple/</loc>
+    <lastmod>2017-04-10T09:51:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pineapple/</loc>
+    <lastmod>2017-04-10T09:50:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/apple/</loc>
+    <lastmod>2017-04-10T09:49:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/04/10/pen/</loc>
+    <lastmod>2017-04-10T09:49:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/nil/</loc>
+    <lastmod>2017-04-10T09:56:09+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2017-04-10T12:25:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/</loc>
+    <lastmod>2017-04-10T12:25:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <lastmod>2017-04-10T09:56:09+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
